@@ -1,4 +1,4 @@
-#Here is a clean, copy-paste-ready README.md — no extra formatting issues, directly usable in GitHub 👇
+
 
 ⸻
 
@@ -94,6 +94,7 @@ For a ticker like AAPL, the script will:
 👨‍💻 Author
 
 Anushk Singh
+
+---
 Roll No. - 23115901
 CSE 5th Semester, NIT Raipur
-Portfolio Management & Machine Learning Enthusiast
