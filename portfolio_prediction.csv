@@ -1,0 +1,5 @@
+Stock,Last_Close,Predicted_Next_Close,Change_Pct,Recommendation
+AAPL,268.47,267.85,-0.23,HOLD 🟡
+GOOGL,278.83,277.59,-0.44,HOLD 🟡
+TSLA,429.52,430.3,0.18,HOLD 🟡
+MSFT,496.82,499.73,0.59,HOLD 🟡
