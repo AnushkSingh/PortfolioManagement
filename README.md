@@ -69,7 +69,7 @@ pip install -r requirements.txt
 
 3️⃣ Run Prediction Script
 
-python stock_predict.py
+python app.py
 
 
 ⸻
