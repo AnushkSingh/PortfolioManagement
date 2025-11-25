@@ -1,8 +1,9 @@
 
 
-⸻
 
-📈 Portfolio Management Prediction using Polynomial Regression
+
+📈 Portfolio Management System
+---
 
 This project predicts short-term stock price movements to help with portfolio management decisions. The system downloads the last 2 years of stock data using yfinance, applies Polynomial Regression (degree 3) with Ridge regularization, and outputs predicted future prices.
 
